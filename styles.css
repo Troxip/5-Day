@@ -1,0 +1,132 @@
+*{
+    font-family: Arial;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.top {
+    font-weight: bold;
+    font-size: 18px;
+    font-style: italic;
+    width: 300px;
+    line-height: 24px;
+    margin-bottom: 0px;
+}
+.views{
+    font-size: 15px;
+    color: rgb(75, 75, 75);
+    margin-bottom: 20px;
+}
+
+.author{
+    font-size: 15px;
+    color: rgb(75, 75, 75);
+    margin-bottom: 20px;
+}
+
+.info{
+    width: 300px;
+    color: rgb(87, 87, 87);
+    margin-bottom: 100px;
+}
+
+.shop{
+    background-color: red;
+    text-align: center;
+    padding: 15px;
+    color: white;
+    font-size: 18px;
+}
+
+.shoplink:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.shoplink{
+    margin-left: 4px;
+}
+
+.tahoma{
+    margin-top: 30px;
+    font-family: Tahoma;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.greeting{
+    width: 500px;
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.ellagro{
+    font-size: 25px;
+    color: red;
+}
+
+.forukash{
+    font-family: Verdana;
+}
+
+.learn{
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.noobtopro{
+    color: rgb(133, 133, 133);
+}
+
+.message{
+    margin-top: 20px;
+    width: 350px;
+}
+
+.getstarted{
+    margin-top: 30px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 25px;
+    border-radius: 20px;
+    background-color: green;
+    color: white;
+    border: solid;
+    cursor: pointer;
+}
+
+.bitcoin{
+    width: 0px;
+    margin-top: 50px;
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.price{
+    margin-top: 5px;
+    font-family: Arial;
+    font-weight: bold;
+    margin-bottom: 3px;
+    font-size: 30px;
+    margin-left: 3px;
+}
+.usd{
+    color: gray;
+    font-size: 12px;
+}
+.procent{
+    color: green;
+    margin-bottom: 10px;
+}
+
+.after{
+    color: gray;
+}
+.pricedown{
+    color: red;
+    margin-left: 3px;
+}
