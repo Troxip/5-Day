@@ -27,10 +27,11 @@
 .info{
     width: 300px;
     color: rgb(87, 87, 87);
-    margin-bottom: 100px;
+    margin-bottom: 25px;
 }
 
 .shop{
+    margin-top: 40px;
     background-color: red;
     text-align: center;
     padding: 15px;
@@ -129,4 +130,8 @@
 .pricedown{
     color: red;
     margin-left: 3px;
+}
+
+.linkyoutube{
+    font-size: 20px;
 }

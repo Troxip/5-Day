@@ -1,0 +1,102 @@
+*{
+    font-family: Roboto, Arial;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.thumb1{
+    width: 100%;
+}
+
+.thumbb1{
+    position: relative;
+}
+
+.time{
+    font-family: Ronoto, Arial;
+    font-weight: bold;
+    font-size: 12px;
+    background-color: black;
+    padding-right: 4px;
+    padding-left: 4px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: white;
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
+
+.notification-button{
+    position: relative;
+}
+
+.notification-amount{
+    background-color: red;
+    color: white;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-right: 4px;
+    padding-left: 4px;
+    font-size: 11px;
+    border-radius: 12px;
+    font-family: Roboto, Arial;
+    position: absolute;
+    top: -2px;
+    right: -2px;
+
+}
+
+.title{
+    margin-top: 12px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    margin-bottom: 0px;
+}
+
+.names{
+    margin-top: 8px;
+    margin-bottom: 0px;
+    font-size: 12px;
+    color: rgb(96, 96, 96);
+}
+
+.views{
+    margin-top: 0px;
+    margin-bottom: 16px;
+    font-size: 12px;
+    color: rgb(96, 96, 96);
+}
+
+.pfp{
+
+}
+
+.pfpsize{
+    border-radius: 36px;
+    width: 36px;
+    margin-top: 12px;
+}
+
+.vid-info{
+
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+}
+
+.video-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 8px;
+    row-gap: 16px;
+    padding: 20px;
+    margin-bottom: 1000px;
+}
+
+.video-card{
+    padding: 5px;
+}
